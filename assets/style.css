@@ -1,0 +1,17 @@
+
+/* body {
+	background: url('assets/images/hyphae.jpg'); //this isn't working and I am unsure why.
+} */
+
+#heading {
+	font-weight: bold;
+	text-align: center;
+}
+ .questionX{
+	 font-size:18px;
+ }
+
+
+#responses{
+	margin-left: 20px;
+}
